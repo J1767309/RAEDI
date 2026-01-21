@@ -9,52 +9,60 @@ import { Mail, Phone, Linkedin } from 'lucide-react';
 
 const staffMembers = [
   {
-    name: "Gary Smith",
+    name: "John Wade",
     title: "President",
-    email: "gsmith@raedi.com",
+    email: "jwade@raedi.com",
     phone: "(507) 288-0208",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop",
-    bio: "Gary has over 25 years of experience in economic development and leads RAEDI's strategic initiatives."
+    bio: "John leads RAEDI's strategic initiatives and oversees all economic development efforts in the Rochester region."
   },
   {
-    name: "Brad Jones",
-    title: "Vice President of Economic Development",
-    email: "bjones@raedi.com",
+    name: "Kirk Bustrom",
+    title: "Director of Economic Development",
+    email: "kbustrom@raedi.com",
     phone: "(507) 288-0208",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
-    bio: "Brad oversees business retention and expansion programs across the Rochester MSA."
+    bio: "Kirk oversees business retention, expansion, and attraction programs across the Rochester MSA."
   },
   {
-    name: "Lisa Johnson",
-    title: "Director of Marketing & Communications",
-    email: "ljohnson@raedi.com",
+    name: "Tonya Bernard",
+    title: "Director of Business Operations",
+    email: "tbernard@raedi.com",
     phone: "(507) 288-0208",
     image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
-    bio: "Lisa manages RAEDI's marketing efforts and community outreach programs."
+    bio: "Tonya manages RAEDI's business operations and administrative functions."
   },
   {
-    name: "Michael Chen",
-    title: "SBDC Director",
-    email: "mchen@raedi.com",
-    phone: "(507) 288-0208",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
-    bio: "Michael leads the Small Business Development Center, providing consulting to entrepreneurs."
-  },
-  {
-    name: "Sarah Williams",
-    title: "Business Development Manager",
-    email: "swilliams@raedi.com",
+    name: "Molly Schmidt",
+    title: "Director of Marketing and Communications",
+    email: "mschmidt@raedi.com",
     phone: "(507) 288-0208",
     image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop",
-    bio: "Sarah works with businesses on expansion projects and site selection assistance."
+    bio: "Molly manages RAEDI's marketing efforts, communications, and community outreach programs."
   },
   {
-    name: "David Martinez",
-    title: "Finance Manager",
-    email: "dmartinez@raedi.com",
+    name: "Mark Thein",
+    title: "SBDC Director",
+    email: "mthein@rochestersbdc.com",
+    phone: "(507) 288-0208",
+    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    bio: "Mark leads the Small Business Development Center, providing consulting and resources to entrepreneurs."
+  },
+  {
+    name: "Julie Herrera-Lemler",
+    title: "SBDC Program Manager",
+    email: "jlemler@rochestersbdc.com",
+    phone: "(507) 288-0208",
+    image: "https://images.unsplash.com/photo-1598550874175-4d0ef436c909?w=400&h=400&fit=crop",
+    bio: "Julie manages SBDC programs and coordinates small business support services."
+  },
+  {
+    name: "Rick Indrelie",
+    title: "SBDC Consultant",
+    email: "rindrelie@rochestersbdc.com",
     phone: "(507) 288-0208",
     image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
-    bio: "David manages RAEDI's financial operations and loan programs."
+    bio: "Rick provides consulting services to small businesses and entrepreneurs in the Rochester area."
   }
 ];
 
